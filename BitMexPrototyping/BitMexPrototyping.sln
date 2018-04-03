@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitMexPrototyping.Applications.BitMexWebSocketApiFacadePrototype", "BitMexPrototyping.Applications.BitMexWebSocketApiFacadePrototype\BitMexPrototyping.Applications.BitMexWebSocketApiFacadePrototype.csproj", "{ED06FE86-152C-4393-88A7-0173DA35000E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitMexPrototyping.Common.Core", "BitMexPrototyping.Common.Core\BitMexPrototyping.Common.Core.csproj", "{04FEFEA9-057F-43B3-B0EE-6CC38C9CBBD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED06FE86-152C-4393-88A7-0173DA35000E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED06FE86-152C-4393-88A7-0173DA35000E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED06FE86-152C-4393-88A7-0173DA35000E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED06FE86-152C-4393-88A7-0173DA35000E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04FEFEA9-057F-43B3-B0EE-6CC38C9CBBD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FEFEA9-057F-43B3-B0EE-6CC38C9CBBD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FEFEA9-057F-43B3-B0EE-6CC38C9CBBD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FEFEA9-057F-43B3-B0EE-6CC38C9CBBD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E8F1D97-F2D3-42F0-B20E-B8C7C8BF0214}
+	EndGlobalSection
+EndGlobal
